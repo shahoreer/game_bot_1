@@ -1,5 +1,5 @@
 ﻿/* problem:
- Can't convert use input into options/arry ********* ********* ********* *********
+ Can't convert userinput into options/arry ********* ********* ********* *********
 
          +5,-9,*3,/8
             i=0

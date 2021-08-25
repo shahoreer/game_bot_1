@@ -5,6 +5,8 @@
             i=0
             j=2
             gap(j-i)=2
+            2-0-1 = 1 (how many more char to take in the option) j-i-1
+            
 
 */
 using System;
